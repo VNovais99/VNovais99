@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, eu sou Vinicius Novais</h1>
 <h3 align="center">Entusiasta de desenvolvimento de sistemas e jogos</h3>
 
-- 🔭 Estou fazendo alguns pequenos projetos próprios [Projeto DataBase](.link)
+- 🔭 Estou fazendo alguns pequenos projetos próprios [Projeto DataBase](-inserir_link-)
 
 - 🌱 Atualmente estou estudando **Analise e Desenvolvimento de Sistemas**
 
